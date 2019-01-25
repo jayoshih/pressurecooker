@@ -13,7 +13,7 @@ requirements = [
     "matplotlib==2.0.0",
     "numpy==1.12.1",
     "pillow>=3.3.1",
-    "Wand==0.4.4",
+    "pdf2image>=1.4.0",
 ]
 
 test_requirements = [
